@@ -21,4 +21,4 @@ I am a second year student at NC State University majoring in Computer Science
 - I aspire to be a Software Engineer in the near future
 - I am seeking internships for summer 2024
 - In my free time, I solve problems on LeetCode and work on personal projects
-- Get in touch: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/evelyn-morado/)
+- Get in touch: emorado@ncsu.edu
